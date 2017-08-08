@@ -1,4 +1,4 @@
-# MyCloset
+# MyCloset   COMING SOON!!!!
 My closet is an interactive application written for iOS which helps users find top-rated matching outfits for articles of clothing they may have in their closet. Users will have a profile with an individual closet and sketchbook. To use the closet, users will either input the item UPC (Found on the clothing tag) or manually enter the information to the database. When items are added to the closet, users will able to find top-rated outfits WITH these specific articles of clothing in their closet!
 
   
